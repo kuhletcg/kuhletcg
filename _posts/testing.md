@@ -1,10 +1,11 @@
 ---
-Layout: 
-Title: "Testing"
-Date: "03-03-2020"
+Layout: post
+Title: Testing
+Date: 2020-03-04
 ---
+Okuhle Nkabinde
 
-## Testing
+## Testing 2
 
 Paragraph
 
