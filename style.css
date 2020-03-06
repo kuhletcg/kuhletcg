@@ -9,6 +9,7 @@ body{
       background-size: cover;
     font-family: 'PT Serif', serif;
     font-size: 20px;
+
 }
 .wrapper{
     display: flex;
@@ -20,5 +21,5 @@ body{
     }
 
 .paragraph{
-    margin: 50vh 68vh 0px 51vh;
+    margin: 50vh 68vh 0px 54vh;
 }
