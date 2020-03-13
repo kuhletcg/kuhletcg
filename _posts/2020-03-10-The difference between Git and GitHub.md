@@ -4,7 +4,7 @@ Title: Difference between Git and GitHub
 Date: 2020-03-10
 Categories:
 ---
-Kuhle
+
 # Difference between Git and GitHub.
 Today I was busy with my homework.They said we have to know between Git and Github.
 ## Git
