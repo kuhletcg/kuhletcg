@@ -5,7 +5,7 @@ Date: 2020-03-10
 Categories:
 ---
 Kuhle
-#Difference between Git and GitHub.
+# Difference between Git and GitHub.
 Today I was busy with my homework.They said we have to know between Git and Github.
 ## Git
 Git-is a version control system that lets you manage and keep track of your source code history.
