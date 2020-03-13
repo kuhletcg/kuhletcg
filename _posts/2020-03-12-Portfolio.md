@@ -15,7 +15,7 @@ Today I was busy with my portfolio by creating new folder.Inside the folder I cr
 - Title: My portfolio
 - h1: My name(Bold,colour).
 - h2: My story (Italis,Bold).
-- paragragh(bold,size:12,Blue).
+- Paragragh(bold,size:12,Blue).
 - h3: My favourite hobbies(three hobbies).
 
 #### Conclusion
