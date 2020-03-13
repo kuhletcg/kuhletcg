@@ -13,10 +13,10 @@ Today I was busy with my portfolio by creating new folder.Inside the folder I cr
 ### The structure of my portfolio is like this.
 
 Title: My portfolio
-h1: My name(Bold,colour)
-h2: My story (Italis,Bold)
-paragragh(bold,size:12,Blue)
-h3: My favourite hobbies(three hobbies)
+h1: My name(Bold,colour).
+h2: My story (Italis,Bold).
+paragragh(bold,size:12,Blue).
+h3: My favourite hobbies(three hobbies).
 
 #### Conclusion
 
