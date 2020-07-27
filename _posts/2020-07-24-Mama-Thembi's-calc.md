@@ -10,8 +10,8 @@ I was required to create simple web UI for the user to perform simple calculator
 and division.
 
 ## Body
-For me it's wasn't easy to build that calculator. 
-The problem was that I had to use Javascript which wasn't easy. It's almost to me the week
+For me it's wasn't easy to build the calculator. 
+The problem was that I had to use Javascript which wasn't easy. It's almost taken me a week
 to build it but I able to do it with HTML and CSS. But now everything is fine even Javascript.
 
 ### Conclusion
