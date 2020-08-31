@@ -4,7 +4,9 @@ Title: code wars kata
 Date: 2020-09-28 
  ---
 
- This week I was busy with code wars. I have done an array plus kata, subtract the sum and beginner series. Wednesday and Thursday I was busy with free code camp and typing practice. Friday I was busy with my project.
+ This week I was busy with code wars. I have done an array plus kata, subtract the sum
+  and beginner series. Wednesday and Thursday I was busy with free code camp and 
+  typing practice. Friday I was busy with my project.
 
 
 1. Description:
