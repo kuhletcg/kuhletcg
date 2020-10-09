@@ -4,7 +4,8 @@ Title: Javascript algorithms
 Date: 2020-09-18 
  ---
 
-This week I was focusing on free code camp.
+Monday I was busy with my class test.
+Then from Tuesday-Friday I was focusing on free code camp.
 
  # JavaScript Algorithms and Data Structures Projects: Telephone Number Validator
  
