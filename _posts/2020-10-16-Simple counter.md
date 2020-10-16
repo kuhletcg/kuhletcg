@@ -14,9 +14,9 @@ The Counter component keeps track of a count value in the state. Two buttons cal
 
 
  ## Challenges
- 
+
 The challenges that I faced is that I didn't know where to start because I haven't done
-counter before, was clueless about it. So I had to go to youtube and check the tutorial, at least know I understand something about react.
+counter before,I was clueless about it. So I had to go to youtube and check the tutorial, at least know I understand something about react.
 
  ## Solution
 
