@@ -4,6 +4,8 @@ Title: "Generate range of integers"
 Date: "2020-11-20"
 ---
 
+
+# Generate a range of integers
 ## Description:
 
 Implement a function named generateRange(min, max, step), which takes three arguments and generates a range of integers from min to max, with the step. The first integer is the minimum value, the second is the maximum of the range and the third is the step. (min < max)
@@ -26,3 +28,10 @@ function generateRange(min, max, step){
    return result
 }
 
+# Summation
+## Description
+
+Write a program that finds the summation of every number from 1 to num. The number will always be a positive integer greater than 0.
+
+## Solution
+const summation = n => n * (n + 1) / 2;
