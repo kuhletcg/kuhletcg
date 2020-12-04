@@ -1,7 +1,7 @@
 ---
 Layout: 
-Title: "Map dispatch"
-Date: "2020-12-04"
+Title: Map dispatch
+Date: 2020-12-04
 ---
 
 ## Description
