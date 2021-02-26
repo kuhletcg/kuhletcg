@@ -13,12 +13,13 @@ A Reducer is a pure function that takes the state of an application and action a
 
 # Body
 
-1. Description:
-   After a hard quarter in the office, you decide to get some rest on a vacation. So you will book a flight for you and your girlfriend and try to leave all the mess behind you.
-   You will need a rental car for you to get around on your vacation. The manager of the car rental makes you some good offers.
-   Every day you rent the car costs $40. If you rent the car for 7 or more days, you get $50 off your total. Alternatively, if you rent the car for 3 or more days, you get $20 off your total.
-   Write a code that gives out the total amount for different days(d).
-   \*/
+### Description:
+
+After a hard quarter in the office, you decide to get some rest on a vacation. So you will book a flight for you and your girlfriend and try to leave all the mess behind you.
+You will need a rental car for you to get around on your vacation. The manager of the car rental makes you some good offers.
+Every day you rent the car costs $40. If you rent the car for 7 or more days, you get $50 off your total. Alternatively, if you rent the car for 3 or more days, you get $20 off your total.
+Write a code that gives out the total amount for different days(d).
+\*/
 
 ## Solution
 
@@ -42,9 +43,10 @@ function rentalCarCost(days) {
 return baseCost(days, 40) - discountRate(days);
 }
 
-2. Description:
-   Write function make uppercase.
-   \*/
+### Description:
+
+Write function make uppercase.
+\*/
 
 ## Solution
 
@@ -52,7 +54,8 @@ function makeUpperCase(str) {
 return str.toUpperCase();
 }
 
-3.  Description:
+### Description:
+
     write me a function stringy that takes a size and returns a string of alternating '1s' and '0s'.
     the string should start with a 1.
     a string with size 6 should return:'101010'.
