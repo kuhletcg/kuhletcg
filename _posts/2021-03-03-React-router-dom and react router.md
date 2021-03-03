@@ -26,12 +26,14 @@ React Router is built and maintained by React Training and hundreds of contribut
 
 ## Example of the router
 
+- <Switch>
 - <Route exact path="/"><Home /></Route>
 - <Route path="/category"><Category /></Route>
 - <Route path="/products"><Products /></Route>
 - <Route path="/:id">
-- <p>This text will render for any route other than '/'</p>
+- <p>This text will render for any route other than those defined above</p>
 - </Route>
+- </Switch>
 
 # Conclusions
 
