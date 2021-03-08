@@ -1,7 +1,7 @@
 ---
 Layout: post
 Title: The difference between React router and react-router-dom
-Date: 2021-3-03
+Date: 2021-03-03
 ---
 
 # Introduction
