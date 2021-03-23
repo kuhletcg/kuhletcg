@@ -1,25 +1,23 @@
 h1 {
-    text-align: center;
-     
+  text-align: center;
 
-    font-family: 'Noto Serif', serif;
+  font-family: "Noto Serif", serif;
 }
-body{
-      background-image: url("./gg.jpg");
-      background-size: cover;
-    font-family: 'PT Serif', serif;
-    font-size: 20px;
+body {
+  background-image: url("./gg.jpg");
+  background-size: cover;
+  font-family: "PT Serif", serif;
+  font-size: 20px;
+}
+.wrapper {
+  display: flex;
+}
+.wrapper > div > a {
+  list-style: none;
+  margin: 10px;
+  text-decoration: none;
+}
 
-}
-.wrapper{
-    display: flex;
-}
-.wrapper>div>a{
-    list-style: none;
-    margin: 10px;
-    text-decoration: none;
-    }
-
-.paragraph{
-    margin: 50vh 68vh 0px 54vh;
+.paragraph {
+  margin: 50vh 68vh 0px 54vh;
 }

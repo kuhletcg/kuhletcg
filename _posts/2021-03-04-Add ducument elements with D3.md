@@ -83,7 +83,7 @@ Passed
    const anchors = d3.selectAll("a");
 
   </script>
-</body>
+- </body>
 
 # Work with Data in D3
 
