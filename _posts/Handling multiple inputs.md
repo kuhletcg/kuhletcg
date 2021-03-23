@@ -48,10 +48,6 @@ There are a couple of significant changes that have been made, in addition to th
 
 The <input type="radio" /> functions a little differently than other inputs. Its value prop is static, representing the option to select. The name is duplicated and must match across the radio buttons that make up the radio button group. The checked prop is introduced with a condition that determines whether that particular button is shown as active or not.
 
-## A Controlled Component
-
-But this change handler, so far, is rather useless. Instead, we can imagine that the change handler should listen for changes and save the new changes in internal state for later form submission.
-
 # Conclusion
 
 Now I have a knowledge of how to consume multiple inputs and the small differences between the common form fields that exist. I also know how to watch for changes across each of these input types and consume them in a single onChange handler.
