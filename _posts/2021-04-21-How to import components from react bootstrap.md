@@ -6,7 +6,7 @@ Date: 2021-04-21
 
 # Introduction
 
-Today I was checking react bootstrap , how does it works.
+Today I was checking to react-bootstrap, how does it work.
 React Bootstrap is one of the widely used libraries in React, and its various components are used in React apps to make them mobile-friendly. It has tons of components that give apps the various details of layout, form controls, information indicators, and navigational components.
 
 In this guide, you are going to learn how to add React Bootstrap into a React app by importing and using the React Bootstrap components in your React components.
@@ -17,7 +17,7 @@ The first thing you need to do is, Adding React Bootstrap into a React App
 
 - Install the React Bootstrap library by using the below npm command.
 
-## How to install react bootstrap
+## How to install react-bootstrap
 
 - npm install react-bootstrap bootstrap
 
