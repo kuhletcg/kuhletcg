@@ -1,27 +1,42 @@
 ---
 Layout: post
-Title: How do you use Key in lists?
+Title: Set a Domain and a range on a scale
 Date: 2021-04-23
 ---
 
-## Introduction
+## Set a Domain and a Range on a Scale
 
-My day was busy, I was busy with Moral's project, I was doing the edit button and I'm still struggling I'm still trying to do it. I also checked how do to use Keys in lists.
+By default, scales use the identity relationship. This means the input value maps to the output value. However, scales can be much more flexible and interesting.
 
-## Body
+Say a dataset has values ranging from 50 to 480. This is the input information for a scale, also known as the domain.
 
-## React List and Keys
+You want to map those points along the x axis on the SVG canvas, between 10 units and 500 units. This is the output information, also known as the range.
 
-Lists are an important aspect of your app. Every application is bound to make use of lists in some form or the other. You could have a list of tasks like a calendar app, a list of pictures like Instagram, a list of items to shop in a shopping cart, and so on. The use-cases are numerous. Lists within an application can be performance-heavy. Imagine an app with a huge list of videos or pictures and you keep getting thousands more, as you scroll. That could take a toll on the app’s performance.
-Because performance is an important aspect, when you are using lists you need to make sure they are designed for optimal performance.
+The domain() and range() methods set these values for the scale. Both methods take an array of at least two elements as an argument. Here's an example:
 
-Keys help React identity which items have changed (added/removed/re-ordered). To give a unique identity to every element inside the array, a key is required.
+scale.domain([50, 480]);
+scale.range([10, 500]);
+scale(50)
+scale(480)
+scale(325)
+scale(750)
+d3.scaleLinear()
+In order, the following values would be displayed in the console: 10, 500, 323.37, and 807.67.
 
-## Conclusion
+Notice that the scale uses the linear relationship between the domain and range values to figure out what the output should be for a given number. The minimum value in the domain (50) maps to the minimum value (10) in the range.
 
-- Let’s recap the highlights from this post.
-- Lists are performant heavy and need to be used carefully.
-- Make sure every item in the list has a unique key.
-- It is preferred to not use indexes as a key unless you know for sure that the list is a static list (no additions/re-ordering/removal to the list).
-- Never use unstable keys like Math. random() to generate a key.
-- React will run into performance degradation and unexpected behavior if unstable keys are used.
+Create a scale and set its domain to [250, 500] and range to [10, 150].
+
+## Solution
+
+- <body>
+- <script>
+  -  const scale = d3.scaleLinear()
+  - .domain([250, 500])
+- .range([10, 150]);
+- const output = scale(50);
+  - d3.select("body")
+  - .append("h2")
+  - .text(output);
+  - </script>
+- </body>

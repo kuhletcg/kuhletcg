@@ -1,9 +1,3 @@
----
-Layout: post
-Title: JavaScript functions
-Date: 2021-04-16
----
-
 # Introduction
 
 My day was hectic, I was busy with Moral's project and I was also busy with the javaScript function. Today Moral and Njabulo gave use katas about function and we're not allowed to using other methods except for loop. Yeah, I was struggling there and there because I was no longer up for a loop like before but then I managed to found solutions for myself.

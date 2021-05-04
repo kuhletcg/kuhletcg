@@ -30,7 +30,7 @@ Change the scale variable to create a linear scale. Then set the output variable
 - const scale = d3.scaleLinear();
 - const output = scale(50);
 - d3.select("body")
-  .append("h2")
+- .append("h2")
 - .text(output);
 - </script>
   -</body>
