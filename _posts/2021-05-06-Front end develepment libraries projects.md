@@ -6,8 +6,8 @@ Date: 2021-05-06
 
 ## Introduction
 
-I want to share what I was doing today. Today I was busy with the free code camp project (Front end development libraries projects).
-I am not done yet but I managed to complete some of the projects because I have completed three projects only two left now.
+I want to share what I was doing today. Today I was busy with the free code camp projects (Front end development libraries projects).
+I am not done yet but I managed to complete some of the projects,I have completed three projects, only two projects left now.
 
 ## Body
 
