@@ -11,7 +11,7 @@ I am not done yet but I managed to complete some of the projects,I have complete
 
 ## Body
 
-While I was doing a drum machine I faced challenges they why I did three projects if I was not struggling to build a drum machine I would have finished four projects. Tomorrow I will try to firer out where was the problem by tomorrow by tomorrow I want to get rid of them all.
+While I was doing a drum machine I faced challenges that's why I did three projects if I was not struggling to build a drum machine I would have finished four projects. Tomorrow I will try to firer out where was the problem by tomorrow by tomorrow I want to get rid of them all.
 
 ## Change Text with click EventsPassed
 
