@@ -1,12 +1,16 @@
 ---
 Layout: post
-Title: Three steps of how To Use Node.js Modules with npm and package.json
+Title: Three steps of how to Use Node.js Modules with npm and package.json
 Date: 2021-05-07
 ---
 
 ## Introduction
 
 Because of such features as its speedy Input/Output (I/O) performance and its well-known JavaScript syntax, Node.js has quickly become a popular runtime environment for back-end web development. But as interest grows, larger applications are built, and managing the complexity of the codebase and its dependencies becomes more difficult. Node.js organizes this complexity using modules, which are any single JavaScript files containing functions or objects that can be used by other programs or modules.
+
+## Body
+
+## Three step of how to use Node.js Modules with npm and package.json
 
 ## Step 1 — Creating a package.json File
 
