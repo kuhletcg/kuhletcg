@@ -6,7 +6,7 @@ Date: 2021-05-18
 
 ## Introduction
 
-My day was busy, today I was busy with free code camp projects (Visualize data with a bar chart). I was required to build a bar chart with HTML and javaScript. I was also busy with Moral's project (TCG-student-tracker). So far done with a form the only thing left is the functionality of the form.
+My day was busy, today I was busy with free code camp projects (Visualize data with a bar chart). I was required to build a bar chart with HTML and javaScript. I was also busy with Moral's project (TCG-student-tracker). So far done with a Login form the only thing left is the functionality of the form.
 I have completed the bar chart so I left with four projects to complete.
 Tomorrow I will continue with free code camp projects.
 
