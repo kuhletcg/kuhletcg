@@ -1,6 +1,6 @@
 ---
 Layout: post
-Title: Geometry basic: Distance between points in 2D
+Title: Find number are divisible by given number
 Date: 2021-06-10
 ---
 
