@@ -12,7 +12,7 @@ Today Moral gave us a project. He said we must create an employee admin form so 
 
 So far I have created an employee form and use form. Tomorrow I will busy with buttons(submit and edit button). I also busy with free code camp and I have completed some kata.
 
-## Example
+## Example: 1
 
 ## Description
 
@@ -26,6 +26,19 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 
 function take(arr, n) {
 return arr.slice(0, n);
+}
+
+## Example: 2
+
+## Description:
+
+I would like to be able to pass an array with two elements to my swapValues function to swap the values. However it appears that the values aren't changing.
+Can you figure out what's wrong here?
+
+## Solution
+
+function swapValues(arr) {
+return arr.reverse()
 }
 
 ## Conclusion
