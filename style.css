@@ -4,17 +4,20 @@ h1 {
   font-family: "Noto Serif", serif;
 }
 body {
-  background-image: url("./gg.jpg");
+  background-image: url("https://64.media.tumblr.com/b9de972d1b72ec08decc0a9e93b9338a/tumblr_prgjn43jHy1tawn8uo1_1280.jpg");
   background-size: cover;
   font-family: "PT Serif", serif;
   font-size: 20px;
+  color: aliceblue;
 }
 .wrapper {
   display: flex;
+  color: rgb(8, 9, 10);
 }
 .wrapper > div > a {
   list-style: none;
   margin: 10px;
+  color: aliceblue;
   text-decoration: none;
 }
 
