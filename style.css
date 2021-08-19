@@ -8,7 +8,7 @@ body {
   background-size: cover;
   font-family: "PT Serif", serif;
   font-size: 20px;
-  color: aliceblue;
+  color: black;
 }
 .wrapper {
   display: flex;
@@ -22,5 +22,5 @@ body {
 }
 
 .paragraph {
-  margin: 50vh 68vh 0px 54vh;
+  margin: 30vh 68vh 0px 54vh;
 }
