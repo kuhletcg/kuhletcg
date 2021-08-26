@@ -4,7 +4,7 @@ Title: Set up  a template engine
 Date: 2021-08-24
 ---
 
-Today I was busy with free code camp and am stacked here I try my best to figure out this problem but I failed. The first thing I'm going to do tomorrow is to figure out this problem.
+Today I was busy with free code camp and I am stuck on this challenge(Set up a template engine), I try my best to figure out this problem but I failed. The first thing I'm going to do tomorrow is to figure out this problem.
 
 A template engine enables you to use static template files (such as those written in Pug) in your app. At runtime, the template engine replaces variables in a template file with actual values which can be supplied by your server. Then it transforms the template into a static HTML file that is sent to the client. This approach makes it easier to design an HTML page and allows for displaying variables on the page without needing to make an API call from the client.
 
