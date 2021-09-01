@@ -38,6 +38,6 @@ Of course, I had to serialize and deserialize the user after implementing the ab
 
 At first, I couldn’t tell which password was which, I had to research more about bcrypt and during the search, I came across bcrypt’s built-in function “bcrypt. compare()”, this kinda threw a relief on my neck for I had known the hard part was almost over.
 
-## Inclusion
+## Conclusion
 
 I’ve built projects before or maybe I think I’ve built some but this one was the hardest of all for me. I never thought that a login screen would be so complicated from a developer's.
